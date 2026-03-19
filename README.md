@@ -2,7 +2,7 @@
 ### 🧩 About Me
 
 - 🎓 Currently studying **Computer Science at UFSJ**
-- 🧱 I'm working with **C, C#, Java, Python**, and sometimes **Assembly**
+- 🧱 I'm working with **C, C#, Java, Python**,
 - 🎮 Interested in **game development**, **modding**, and **systems programming**
 - 🚀 Always learning something new!
 
@@ -11,7 +11,7 @@
 ### ⚙️ Tech Stack
 
 **Languages:**  
-`C` · `C#` · `Python` · `Assembly NASM` · `JavaScript` . `Java`
+`C` · `C#` · `Python` · `JavaScript` . `Java`
 
 **Tools & Frameworks:**  
-`Unity` · `.NET` · `Linux` · `Git` · `VS Code`
+`Unity` · `.NET` · `Linux` · `Git` · `VS Code` . `intelliJ`
